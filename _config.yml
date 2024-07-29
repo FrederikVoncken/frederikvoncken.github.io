@@ -3,3 +3,5 @@ description: GitHub page for FrederikVoncken.
 show_downloads: no
 google_analytics:
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
