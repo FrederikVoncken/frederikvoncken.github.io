@@ -2,7 +2,7 @@
 Personal page https//www.frederikvoncken.nl
 
 A Smartmeter P1 telnet implementation for espressif32 idf PlatformIO
-https://github.com/FrederikVoncken/esp32-p1meter
+# [https://github.com/FrederikVoncken/esp32-p1meter] https://github.com/FrederikVoncken/esp32-p1meter
 
 A telnet implementation for espressif32 idf PlatformIO
 https://github.com/FrederikVoncken/esp32-telnet
