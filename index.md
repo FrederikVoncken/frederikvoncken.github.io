@@ -1,6 +1,6 @@
 # [Link to my GitHub](https://github.com/FrederikVoncken)
 
-# [Link to my Personal page](https//www.frederikvoncken.nl)
+# [Link to my Personal page](https://www.frederikvoncken.nl)
 
 A Smartmeter P1 telnet implementation for espressif32 idf PlatformIO
 # [https://github.com/FrederikVoncken/esp32-p1meter](https://github.com/FrederikVoncken/esp32-p1meter)
