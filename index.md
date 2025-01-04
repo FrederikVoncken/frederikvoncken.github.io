@@ -1,4 +1,4 @@
-# [Link to the GitHub page](https://github.com/FrederikVoncken)
+# [Link to my GitHub](https://github.com/FrederikVoncken)
 
 # [Link to my Personal page](https//www.frederikvoncken.nl)
 
